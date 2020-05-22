@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Out of the loop
 ---
 
