@@ -15,17 +15,17 @@ order: 1
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {% if page.content contains '<!--more-->' %}
-    <div>
-        {{ page.content | split:'<!--more-->' | first }}
+     {% if post.content contains '<!--more-->' %}
+     <div>
+        {{ post.content | split:'<!--more-->' | first }}
     </div>
-    <input type="checkbox" class="read-more-state" id="{{ page.url }}"/>
+    <input type="checkbox" class="read-more-state" id="{{ post.url }}"/>
     <div class="read-more">
-        {{ page.content | split:'<!--more-->' | last }}
+        {{ post.content | split:'<!--more-->' | last }}
     </div>
     <label for="{{ page.url }}" class="read-more-trigger"></label>
 {% else %}
-    {{ page.content }}
+    {{ post.content }}
 {% endif %}
   </div>
   {% endfor %}
