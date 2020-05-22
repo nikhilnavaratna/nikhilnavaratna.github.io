@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<strong> Introduction </strong>
+## Introduction 
 
 Who am I and what is a pretzel?
 
