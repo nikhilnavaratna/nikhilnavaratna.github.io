@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Out of the loop
+order: 2
 ---
 
 ## Introduction
