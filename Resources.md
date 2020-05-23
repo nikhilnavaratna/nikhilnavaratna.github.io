@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-order: 4
+order: 5
 ---
 
 A list of textbooks and papers that I find to be very useful in understanding concepts will be put here. 
