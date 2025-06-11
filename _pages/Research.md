@@ -6,8 +6,8 @@ nav_order: 2
 dropdown: true
 children:
   - title: Photonics
-    permalink: photonics.md
+    permalink: /_pages/photonics.md
   - title: divider
   - title: Electronics
-    permalink: electronics.md
+    permalink: /_pages/electronics.md
 ---
