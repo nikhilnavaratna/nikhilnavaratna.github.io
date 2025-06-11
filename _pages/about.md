@@ -24,6 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Nikhil. This is my blog. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! 
+I am currently a final year Ph.D student at NTU Singapore majoring in Physics. My research focuses on terahertz photonics and electronics. During my Ph.D, I have focused on the development of waveguide-interconnects and topological photonic devices for sub-terahertz communication systems. 
