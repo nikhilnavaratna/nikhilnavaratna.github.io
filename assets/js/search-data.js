@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-photonics",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "List of my publications",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "dropdown-photonics",
               title: "Photonics",
               description: "",
               section: "Dropdown",
@@ -21,16 +28,9 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/_pages/electronics.md";
+                window.location.href = "/";
               },
-            },{id: "nav-publications",
-          title: "Publications",
-          description: "List of my publications",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-cv",
+            },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
