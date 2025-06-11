@@ -24,5 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**About**
-Welcome! I am a final year graduate student at TeraX Labs.
+Welcome! I am a final year graduate student at [TeraX Labs](https://web.spms.ntu.edu.sg/~ranjans/index.html). I work at the intersection of terahertz photonics, terahertz communication testbed development and high-frequency electronic design. 
+My research focuses on designing devices and experiment platforms to test devices operational at sub-Terahertz frequencies. 
