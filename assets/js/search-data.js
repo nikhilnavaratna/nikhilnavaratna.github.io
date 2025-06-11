@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "dropdown-photonics",
+              title: "Photonics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/photonics/";
+              },
+            },{id: "dropdown-electronics",
+              title: "Electronics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/electronics/";
+              },
+            },{id: "nav-publications",
           title: "Publications",
           description: "List of my publications",
           section: "Navigation",
@@ -23,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/nikhil_cv/Nikhil_CV.pdf";
           },
-        },{id: "dropdown-photonics",
-              title: "Photonics",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-electronics",
-              title: "Electronics",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
