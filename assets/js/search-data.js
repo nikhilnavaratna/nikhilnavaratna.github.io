@@ -21,14 +21,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/publications/";
+                window.location.href = "/photonics/";
               },
             },{id: "dropdown-electronics",
               title: "Electronics",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/";
+                window.location.href = "/electronics/";
               },
             },{id: "nav-cv",
           title: "CV",
