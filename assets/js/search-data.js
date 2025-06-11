@@ -28,7 +28,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/electronics/";
+                window.location.href = "/_pages/electronics";
               },
             },{id: "nav-cv",
           title: "CV",
