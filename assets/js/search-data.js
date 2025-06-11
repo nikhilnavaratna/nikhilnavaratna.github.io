@@ -14,7 +14,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/_pages/photonics.md";
+                window.location.href = "/publications/";
               },
             },{id: "dropdown-electronics",
               title: "Electronics",
