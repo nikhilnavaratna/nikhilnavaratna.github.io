@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /photonics/
-title: Publications
-description: Summary of photonics projects
+title: Photonics
+description: Guiding light where it's needed most, often through sharp corners. 
 ---
 
 
