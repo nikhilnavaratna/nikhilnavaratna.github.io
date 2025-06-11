@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/nikhil_cv/Nikhil%20Navaratna%20CV.pdf";
+            window.location.href = "/assets/pdf/nikhil_cv/Nikhil_CV.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
