@@ -9,5 +9,5 @@ children:
     permalink: /photonics/
   - title: divider
   - title: Electronics
-    permalink: _pages/electronics
+    permalink: /electronics/
 ---
