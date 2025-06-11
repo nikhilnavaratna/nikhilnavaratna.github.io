@@ -23,7 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/nikhil_cv/Nikhil_CV.pdf";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-photonics",
+              title: "Photonics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-electronics",
+              title: "Electronics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
