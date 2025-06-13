@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/assets/pdf/nikhil_cv/Nikhil_CV.pdf";
           },
         },{id: "nav-bookshelf",
-          title: "bookshelf",
+          title: "Bookshelf",
           description: "",
           section: "Navigation",
           handler: () => {
