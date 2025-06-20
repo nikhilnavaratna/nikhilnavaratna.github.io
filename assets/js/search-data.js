@@ -393,11 +393,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/feynman_book1/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-thief-of-time",
+          title: 'Thief of Time',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/thief_of_time/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
