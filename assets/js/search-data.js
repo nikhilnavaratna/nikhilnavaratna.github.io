@@ -383,8 +383,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/feynman_book1/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-",
+          title: '',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
