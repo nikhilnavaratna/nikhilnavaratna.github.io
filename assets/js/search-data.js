@@ -378,11 +378,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-the-pleasure-of-finding-things-out",
+          title: 'The Pleasure of Finding Things Out',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/2024/feynman_pleasure_of_finding/";
+              window.location.href = "/books/feynman_book1/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
