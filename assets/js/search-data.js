@@ -393,6 +393,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/zen_writing/";
+            },},{id: "books-india-after-gandhi",
+          title: 'India After Gandhi',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/india_after_gandhi/";
             },},{id: "books-the-pleasure-of-finding-things-out",
           title: 'The Pleasure of Finding Things Out',
           description: "",
