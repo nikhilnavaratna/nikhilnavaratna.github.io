@@ -398,6 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/india_after_gandhi/";
+            },},{id: "books-the-cyberiad",
+          title: 'The Cyberiad',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cyberiad/";
             },},{id: "books-notes-from-a-dead-house",
           title: 'Notes from a Dead House',
           description: "",
