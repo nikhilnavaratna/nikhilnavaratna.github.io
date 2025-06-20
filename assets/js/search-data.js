@@ -418,6 +418,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/paddy/";
+            },},{id: "books-the-idea-factory-bell-labs-and-the-great-age-of-american-innovation",
+          title: 'The Idea Factory, Bell Labs and the Great Age of American Innovation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/idea_factory/";
             },},{id: "books-think-a-compelling-introduction-to-philosophy",
           title: 'Think, A Compelling Introduction to Philosophy',
           description: "",
