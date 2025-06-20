@@ -378,7 +378,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-pleasure-of-finding-things-out",
+      },{id: "books-philosophy-of-science-very-short-introduction",
+          title: 'Philosophy of Science, Very Short Introduction',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/philosophy_of_science_vsi/";
+            },},{id: "books-the-pleasure-of-finding-things-out",
           title: 'The Pleasure of Finding Things Out',
           description: "",
           section: "Books",handler: () => {
