@@ -408,11 +408,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/thief_of_time/";
-            },},{id: "books-think-a-compelling-introduction-to-philosophy",
-          title: 'Think, A Compelling Introduction to Philosophy',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/think/";
             },},{id: "books-the-barefoot-coach",
           title: 'The Barefoot Coach',
           description: "",
@@ -423,6 +418,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/legion/";
+            },},{id: "books-think-a-compelling-introduction-to-philosophy",
+          title: 'Think, A Compelling Introduction to Philosophy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/think/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
