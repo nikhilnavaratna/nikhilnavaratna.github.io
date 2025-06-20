@@ -418,6 +418,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/paddy/";
+            },},{id: "books-we-are-legion",
+          title: 'We Are Legion',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/legion/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
