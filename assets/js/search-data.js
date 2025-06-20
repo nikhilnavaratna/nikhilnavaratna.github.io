@@ -378,7 +378,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-philosophy-of-science-very-short-introduction",
+      },{id: "books-obliquity-why-our-goals-are-best-achieved-indirectly",
+          title: 'Obliquity, Why our goals are best achieved indirectly',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/obliquity/";
+            },},{id: "books-philosophy-of-science-very-short-introduction",
           title: 'Philosophy of Science, Very Short Introduction',
           description: "",
           section: "Books",handler: () => {
