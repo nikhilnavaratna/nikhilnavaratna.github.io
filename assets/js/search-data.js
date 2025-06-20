@@ -388,6 +388,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/philosophy_of_science_vsi/";
+            },},{id: "books-zen-in-the-art-of-writing",
+          title: 'Zen in the art of writing',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/zen_writing/";
             },},{id: "books-the-pleasure-of-finding-things-out",
           title: 'The Pleasure of Finding Things Out',
           description: "",
