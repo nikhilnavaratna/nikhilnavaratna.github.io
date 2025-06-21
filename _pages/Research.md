@@ -13,7 +13,7 @@ My research is centered around these three questions.
  Photonic platforms with low-loss and low-dispersion enable high speed chip-to-chip data transfer and efficient light-matter interaction. Utilizing the novel concepts of topological physics in topological photonic devices can open new avenues for dispersion engineering and chip-miniaturization with promising applications in high-throughput waveguiding, sensing, and spectroscopy. 
   <div style="display: flex; justify-content: space-around;">
   <img src="/assets/img/1.jpg"  style="width: 33%;" />
-  <img src="/assets/img/10.jpg"  style="width: 33%;" />
+  <img src="/assets/img/research/ABWgGif.gif"  style="width: 33%;" /> 
   <img src="/assets/img/12.jpg"  style="width: 33%;" />
 </div>
 </details>
