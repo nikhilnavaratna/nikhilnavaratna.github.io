@@ -18,7 +18,7 @@ My research is centered around these three questions.
    </figure>
    <figure>
     <figcaption>Topological Waveguide</figcaption>
-    <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 83%;" /> 
+    <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 81%;" /> 
    </figure>
 </div>
 </details>
