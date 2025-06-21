@@ -14,11 +14,11 @@ My research is centered around these three questions.
   <div style="display: flex; justify-content: space-around; text-align: center;">
    <figure>
     <figcaption>Photonic crystal line defect waveguide</figcaption>
-    <img src="/assets/img/research/Straight Waveguide GCF_crop.gif"  style="width: 45%;" /> 
+    <img src="/assets/img/research/Straight Waveguide GCF_crop.gif"  style="width: 75%;" /> 
    </figure>
    <figure>
     <figcaption>Topological Waveguide</figcaption>
-    <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 45%;" /> 
+    <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 75%;" /> 
    </figure>
 </div>
 </details>
