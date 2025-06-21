@@ -19,6 +19,11 @@ My research is centered around these three questions.
 <details>
 <summary> <strong> How can we improve electronic circuits for high-frequency operation? </strong></summary>
   The performance of electronic circuits is limited at frequencies close to 300 GHz. Optimising circuit-layouts and passives can mitigate the losses facilitating the development of high frequency electronic circuitry. 
+ <div style="display: flex; justify-content: space-around;">
+  <img src="assets/img/1.jpg"  style="width: 30%;" />
+  <img src="assets/img/10.jpg"  style="width: 30%;" />
+  <img src="assets/img/12.jpg"  style="width: 30%;" />
+</div>
 </details>
 
 <br>
