@@ -11,9 +11,13 @@ My research is centered around these three questions.
 <details>
 <summary> <strong> How can we enable low-loss light propagation through silicon waveguides? </strong></summary>
  Photonic platforms with low-loss and low-dispersion enable high speed chip-to-chip data transfer and efficient light-matter interaction. Utilizing the novel concepts of topological physics in topological photonic devices can open new avenues for dispersion engineering and chip-miniaturization with promising applications in high-throughput waveguiding, sensing, and spectroscopy. 
-  <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/research/PCWaveguideGif.gif"  style="width: 45%;" /> 
-  <img src="/assets/img/research/ABWgGif.gif"  style="width: 45%;" /> 
+  <div style="display: flex; justify-content: space-around; text-align: center;">
+   <figure>
+    <img src="/assets/img/research/Fz_animation3.gif"  style="width: 500px;" /> 
+   </figure>
+   <figure>
+    <img src="/assets/img/research/ABWgGif.gif"  style="width: 500px;" /> 
+   </figure>
 </div>
 </details>
 
