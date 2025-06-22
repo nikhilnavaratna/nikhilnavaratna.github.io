@@ -27,11 +27,11 @@ My research is centered around these three questions.
 
 <details>
 <summary> <strong> How can we improve electronic circuits for high-frequency operation? </strong></summary>
-  The performance of electronic circuits is limited at frequencies close to 300 GHz, primarily because of the low $f_{T}$ and $f_{max}$ of available technologies. Here, I am interested in optimising circuit-layouts and passives to mitigate the losses for facilitating the development of high frequency electronic circuitry. An interesting unison of terahertz electronics and photonics is in high-frequency electronic transceivers interconnected by photonic waveguides achieveing high data rates in short-to-medium (0.01 - 10m) distances, filling the gap between copper and optical interconnects. 
- <div style="display: flex; justify-contnet: space-around; text-align:center;">
+  The performance of electronic circuits is limited at frequencies close to 300 GHz, primarily because of the low f<sub>T</sub> and f<sub>max</sub> of available technologies. Here, I am interested in optimising circuit-layouts and passives to mitigate the losses for facilitating the development of high frequency electronic circuitry. An interesting unison of terahertz electronics and photonics is in high-frequency electronic transceivers interconnected by photonic waveguides achieveing high data rates in short-to-medium (0.01 - 10m) distances, filling the gap between copper and optical interconnects. 
+ <div style="display: flex; justify-content: space-around; text-align:center;">
   <figure>
    <figcaption> Transport properties to RF parameters </figcaption>
-   <img src = "/assets/img/research/Figure3v3_PathConv.svg" style ="width:90%;" />
+   <img src = "/assets/img/research/Figure3v3_PathConv.svg" style ="width: 90%;" />
   </figure>
  </div> 
 </details>
