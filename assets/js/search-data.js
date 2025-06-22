@@ -433,6 +433,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/idea_factory/";
+            },},{id: "books-fooled-by-randomness",
+          title: 'Fooled by Randomness',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/fbr/";
             },},{id: "books-think-a-compelling-introduction-to-philosophy",
           title: 'Think, A Compelling Introduction to Philosophy',
           description: "",
