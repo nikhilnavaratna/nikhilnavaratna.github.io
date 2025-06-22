@@ -31,7 +31,7 @@ My research is centered around these three questions.
  <div style="display: flex; justify-content: space-around; text-align:center;">
   <figure>
    <figcaption> Transport properties to RF parameters </figcaption>
-   <img src = "/assets/img/research/Figure3v3_PathConv.svg" style ="width: 90%;" />
+   <img src = "/assets/img/research/Figure3v3_PathConv.svg" style ="width: 99%;" />
   </figure>
  </div> 
 </details>
