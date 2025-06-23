@@ -19,7 +19,7 @@ My research is centered around these three questions.
     <img src="/assets/img/research/Straight Waveguide GCF_crop.gif"  style="width: 85%;" /> 
    </figure>
    <figure>
-    <figcaption>Leaky Topological Waveguide</figcaption>
+    <figcaption>Topological Waveguide</figcaption>
     <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 85%;" />  
    </figure>
 </div>
