@@ -19,8 +19,8 @@ My research is centered around these three questions.
     <img src="/assets/img/research/Straight Waveguide GCF_crop.gif"  style="width: 85%;" /> 
    </figure>
    <figure>
-    <figcaption>Topological Waveguide</figcaption>
-    <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 85%;" /> 
+    <figcaption>Leaky Topological MZI</figcaption>
+    <img src="/assets/img/research/MZI GCF.gif"  style="width: 85%;" /> 
    </figure>
 </div>
 </details>
