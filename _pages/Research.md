@@ -20,7 +20,7 @@ My research is centered around these three questions.
    </figure>
    <figure>
     <figcaption>Leaky Topological MZI</figcaption>
-    <img src="/assets/img/research/MZI GCF.gif"  style="width: 85%;" /> 
+    <img src="/assets/img/research/MZI GCF.gif"  style="width: 95%;" /> 
    </figure>
 </div>
 </details>
