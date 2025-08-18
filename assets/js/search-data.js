@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/nikhil_cv/Nikhil_CV.pdf";
+            window.location.href = "/assets/pdf/nikhil_cv/Nikhil%20CV%20Website.pdf";
           },
         },{id: "nav-bookshelf",
           title: "Bookshelf",
