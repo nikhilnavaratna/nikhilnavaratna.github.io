@@ -443,6 +443,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/think/";
+            },},{id: "books-the-mis-behavior-of-markets",
+          title: 'The (Mis)behavior of markets',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/misbehavior/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
