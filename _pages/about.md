@@ -24,8 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-Welcome! I’m a final-year Ph.D. student at [TeraX Labs](https://web.spms.ntu.edu.sg/~ranjans/index.html), Nanyang Technological University (NTU), working under the supervision of [Prof. Ranjan Singh](https://web.spms.ntu.edu.sg/~ranjans/prof.html). My doctoral research lies at the intersection of terahertz photonics, high-frequency electronics, and communication testbed development where I explore how fundamental principles of physics and engineering can be harnessed to enable next-generation 6G networks and ultra-high-speed data links.
+Welcome! I’m a Research Scientist at [TeraX Labs](https://web.spms.ntu.edu.sg/~ranjans/index.html), Nanyang Technological University (NTU), working under the supervision of [Prof. Ranjan Singh](https://web.spms.ntu.edu.sg/~ranjans/prof.html). I have recently submitted my [Ph.D. thesis](https://hdl.handle.net/10356/205858), where my research focused on terahertz photonics and communication testbed development, alongside contributions to terahertz electronic circuit design. I am interested to explore how fundamental principles of physics and engineering can advance next-generation wireless systems and ultra-high-speed data links.
 
 I hold a B.E. (Hons.) in Electronics and Communication and an M.Sc. (Hons.) in Physics from BITS Pilani, Hyderabad Campus. As an undergraduate, I conducted research in plasmonics under the guidance of [Prof. Kannan Ramaswamy](https://www.bits-pilani.ac.in/hyderabad/kannan-ramaswamy/). In my final year, I interned at Texas Instruments, Bangalore, where I worked on jitter characterization in digital circuits.
 
