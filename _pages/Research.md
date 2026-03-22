@@ -5,11 +5,11 @@ title: Research
 nav: true
 nav_order: 2
 ---
-My research is centered around these three questions.
+My doctoral research centered around these three questions.
 
 <br>
 <details>
-<summary> <strong> How can we enable low-loss light propagation through silicon waveguides? </strong></summary>
+<summary> <strong> How can we enable and harness low-loss light propagation through silicon waveguides? </strong></summary>
  Photonic platforms with low-loss and low-dispersion enable high speed chip-to-chip data transfer and efficient light-matter interaction. Utilizing the novel concepts of topological physics in topological photonic devices can open new avenues for dispersion engineering and chip-miniaturization with promising applications in high-throughput waveguiding, sensing, and spectroscopy. Here, I have worked on developing photonic crystal waveguides for high-speed interconnects and on-chip topological photonic devices. 
  <br>
  
