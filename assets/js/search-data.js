@@ -443,6 +443,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/think/";
+            },},{id: "books-the-hobbit",
+          title: 'The Hobbit',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hobbit/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
