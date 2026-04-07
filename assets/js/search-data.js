@@ -423,11 +423,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/legion/";
-            },},{id: "books-the-lord-of-the-rings",
-          title: 'The Lord Of The Rings',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/lotr/";
             },},{id: "books-the-barefoot-coach",
           title: 'The Barefoot Coach',
           description: "",
@@ -453,6 +448,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hobbit/";
+            },},{id: "books-the-lord-of-the-rings",
+          title: 'The Lord Of The Rings',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lotr/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
