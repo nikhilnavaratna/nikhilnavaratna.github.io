@@ -438,6 +438,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fbr/";
+            },},{id: "books-project-hail-mary",
+          title: 'Project Hail Mary',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/phm/";
             },},{id: "books-think-a-compelling-introduction-to-philosophy",
           title: 'Think, A Compelling Introduction to Philosophy',
           description: "",
