@@ -403,6 +403,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/cyberiad/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/faraday/";
             },},{id: "books-notes-from-a-dead-house",
           title: 'Notes from a Dead House',
           description: "",
