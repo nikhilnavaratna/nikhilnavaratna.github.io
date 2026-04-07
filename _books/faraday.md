@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics
+title: Faraday, Maxwell, and the Electromagnetic Field How Two Men Revolutionized Physics
 author: Nancy Forbes, Basil Mohan
 cover: assets/img/book_covers/FarMax.jpg
 date: 2026-01-03
