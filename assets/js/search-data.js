@@ -403,11 +403,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/cyberiad/";
-            },},{id: "books-",
-          title: '',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/faraday/";
             },},{id: "books-notes-from-a-dead-house",
           title: 'Notes from a Dead House',
           description: "",
@@ -458,6 +453,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/lotr/";
+            },},{id: "books-faraday-maxwell-and-the-electromagnetic-field-how-two-men-revolutionized-physics",
+          title: 'Faraday, Maxwell, and the Electromagnetic Field How Two Men Revolutionized Physics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/faraday/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
