@@ -119,3 +119,9 @@ h1.post-title {
   flex: 1 1 14rem;
   min-width: 0;
 }
+
+@media (min-width: 768px) {
+  .post .profile {
+    margin-top: -8.5rem;
+  }
+}
