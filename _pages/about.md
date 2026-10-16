@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Photonics researcher · Ph.D. Physics, NTU Singapore"
+subtitle: "Integrated photonics · High-speed communication"
 
 profile:
   align: right
@@ -24,11 +24,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p class="about-keywords">Integrated photonics · High-speed communication </p>
 
 I am a Research Manager at the National Center for Advanced Integrated Photonics (NCAIP), NTU Singapore, working on integrated photonic devices and high-speed electro-optic systems. My [Ph.D. research](https://hdl.handle.net/10356/205858)  at NTU focused on terahertz photonics for high-speed communication and sensing, alongside contributions to terahertz electronic circuit design. My broader interests lie in silicon photonics as well as computational methods for photonic device design.
 
 Currently: thin-film lithium niobate electro-optic modulators.
+
+<p class="about-bg-label">What I bring</p>
+<div class="about-bg">
+  <div class="about-bg-row"><div class="k">Simulation</div><div class="v">Lumerical, COMSOL Multiphysics, CST Microwave Studio, Keysight ADS and Cadence Virtuoso for circuits.</div></div>
+  <div class="about-bg-row"><div class="k">Layout</div><div class="v">KLayout (primary). Familiar with GDSFactory </div></div>
+  <div class="about-bg-row"><div class="k">Measurement</div><div class="v">Vector network analysers, spectrum analysers and real-time oscilloscopes for high-frequency devices characterization and testing.</div></div>
+  <div class="about-bg-row"><div class="k">Programming</div><div class="v">Python, MATLAB and C++ for modelling, simulation automation and data processing; LabVIEW for automating measurement setups and data acquisition.</div></div>
+</div>
 
 Outside work: I read non-fiction and science fiction (technology, economics, the history and philosophy of science) and I’m training toward half marathons.
 
