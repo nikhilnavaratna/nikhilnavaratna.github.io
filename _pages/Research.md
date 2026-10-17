@@ -5,47 +5,59 @@ title: Research
 nav: true
 nav_order: 2
 ---
-My doctoral research centered around these three questions.
 
-<br>
-<details>
-<summary> <strong> How can we enable and harness low-loss light propagation through silicon waveguides? </strong></summary>
- Photonic platforms with low-loss and low-dispersion enable high speed chip-to-chip data transfer and efficient light-matter interaction. Utilizing the novel concepts of topological physics in topological photonic devices can open new avenues for dispersion engineering and chip-miniaturization with promising applications in high-throughput waveguiding, sensing, and spectroscopy. Here, I have worked on developing photonic crystal waveguides for high-speed interconnects and on-chip topological photonic devices. 
- <br>
- 
-  <div style="display: flex; justify-content: space-around; text-align: center;">
-   <figure>
-    <figcaption>Photonic crystal line defect waveguide</figcaption>
-    <img src="/assets/img/research/Straight Waveguide GCF_crop.gif"  style="width: 85%;" /> 
-   </figure>
-   <figure>
-    <figcaption>Topological Waveguide</figcaption>
-    <img src="/assets/img/research/AB Waveguide GCF_crop.gif"  style="width: 85%;" />  
-   </figure>
-</div>
-</details>
+My work sits between design and test: designing photonic devices that guide terahertz light with little loss, and building the setups that show whether they perform as designed.
 
-<br>
+<section class="research-section">
+  <p class="research-kicker">Design</p>
+  <h2 class="research-question">How do we guide terahertz light on a chip with almost no loss?</h2>
+  <div class="research-row">
+    <p>Moving data between chips faster means moving it with light, and that needs waveguides that waste very little of it. I design photonic crystal and topological waveguides in silicon, whose guiding holds up around sharp bends and defects, and build devices on them: filters, interferometers and sensors. The same platform points towards compact dispersion engineering, spectroscopy and on-chip sensing.</p>
+    <div class="research-img">
+      <img src="/assets/img/research/AB%20Waveguide%20GCF_crop.gif" alt="Topological waveguide" />
+    </div>
+  </div>
 
-<details>
-<summary> <strong> How can we improve electronic circuits for high-frequency operation? </strong></summary>
-  The performance of electronic circuits is limited at frequencies close to 300 GHz, primarily because of the low f<sub>T</sub> and f<sub>max</sub> of available technologies. Here, I am interested in optimising circuit-layouts and passives to mitigate the losses for facilitating the development of high frequency electronic circuitry. An interesting unison of terahertz electronics and photonics is in high-frequency electronic transceivers interconnected by photonic waveguides achieveing high data rates in short-to-medium (0.01 - 10m) distances, filling the gap between copper and optical interconnects. Another intriguing aspect is exploring how materials exhibiting superior transport properties at terahertz frequencies, such as III-V semiconductors, can be used in circuit design and integrated with conventional silicon processes. 
- <br>
- 
- <div style="display: flex; justify-content: space-around; text-align:center;">
-  <figure>
-   <figcaption> Transport properties to RF metrics </figcaption>
-   <img src = "/assets/img/research/ElectronicParams.svg" style ="width: 100%;" />
-  </figure>
- </div> 
-</details>
+  <p class="research-pubs-label">Representative publications</p>
+  <ol class="research-pubs">
+    <li>
+      <a href="#" target="_blank" rel="noopener">Monolithic Terahertz Topological Mach-Zehnder Interferometer</a>
+      <span class="meta"><strong>N. Navaratna</strong>, Y. J. Tan, W. Wang, et al. <em>Advanced Materials</em>, 2025.</span>
+    </li>
+    <li>
+      <a href="#" target="_blank" rel="noopener">Slow light topological photonics with counter-propagating waves and its active control on a chip</a>
+      <span class="meta">A. Kumar, Y. J. Tan, <strong>N. Navaratna</strong>, et al. <em>Nature Communications</em>, 2024.</span>
+    </li>
+    <li>
+      <a href="#" target="_blank" rel="noopener">Topological Line Defect Waveguide</a>
+      <span class="meta"><strong>N. Navaratna</strong>, Y. J. Tan, R. Singh. <em>Advanced Optical Materials</em>, 2025.</span>
+    </li>
+  </ol>
+</section>
 
-<br>
+<section class="research-section">
+  <p class="research-kicker">Test</p>
+  <h2 class="research-question">How do we know a terahertz device really performs as designed?</h2>
+  <div class="research-row">
+    <p>A device operating between 0.1 and 1 THz is only as credible as the measurement behind it. I build the setups that test them, from network-analyser characterisation to full communication testbeds that send data through the chip. Calibration gets as much care as the device itself, because a measurement can tell you more about the setup than about the device (<a href="https://www.jaakkoj.com/concepts/wittgensteins-ruler">Wittgenstein's Ruler</a>).</p>
+    <!-- Add an image here when you have one, then delete this comment:
+    <div class="research-img">
+      <img src="/assets/img/research/YOUR_IMAGE.jpg" alt="Describe the image" />
+    </div>
+    -->
+  </div>
 
-<details>
-<summary><strong> How can we accurately evaluate the performance of high-frequency photonic and electronic devices? </strong></summary>
-  Sub-terahertz (0.1 THz - 1 THz) frequencies offer high bandwidth and the opportunity for co-integration of photonics and electronics. Developing vector network analyser based device characterisation setups and communication testbeds operational at these frequencies is vital for benchmarking devices, supporting research into 6G technologies and high-throughput data links. Here, I have worked with Uni-traveling-carrier photo diodes (UTC-PD), arbitrary waveform generators, broadband modulators to transmit complex modulated waveforms which are then captured and analysed in a real time oscilloscope. A key challenge here, especially in devices such as broadband low-loss waveguides, is accurate calibration and optimisation of the measurement setups. Without this, <a href="https://www.jaakkoj.com/concepts/wittgensteins-ruler">Wittgenstein's Ruler</a>  scenarios become inevitable, where the measurement tells more about the setup characteristics than about the device under test. 
- 
-</details>
+  <p class="research-pubs-label">Representative publications</p>
+  <ol class="research-pubs">
+    <li>
+      <a href="#" target="_blank" rel="noopener">327 Gbps THz silicon photonic interconnect with sub-λ bends</a>
+      <span class="meta">M. Gupta, <strong>N. Navaratna</strong>, P. Szriftgiser, et al. <em>Applied Physics Letters</em>, 2023.</span>
+    </li>
+    <li>
+      <a href="#" target="_blank" rel="noopener">Faraday rotation in ligand capped Fe<sub>3</sub>O<sub>4</sub> nanoparticles: experimental investigations for single scattering model</a>
+      <span class="meta">H. K. Narsetti, W. A. Wani, <strong>N. Navaratna</strong>, et al. <em>Journal of Magnetism and Magnetic Materials</em>, 2021.</span>
+    </li>
+  </ol>
+</section>
 
-
+<p class="research-footer">Both threads come together in my <a href="https://hdl.handle.net/10356/205858" target="_blank" rel="noopener">Ph.D. thesis</a> (NTU Singapore). The full publication list is on <a href="#" target="_blank" rel="noopener">Google Scholar</a>.</p>
