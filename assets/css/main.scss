@@ -225,3 +225,16 @@ h1.post-title {
   padding-top: 1.5rem;
   border-top: 1px solid var(--global-divider-color);
 }
+
+// Theme-aware images: show the light version by default, the dark one in dark mode
+.research-img .img-dark {
+  display: none;
+}
+
+html[data-theme="dark"] .research-img .img-light {
+  display: none;
+}
+
+html[data-theme="dark"] .research-img .img-dark {
+  display: block;
+}
