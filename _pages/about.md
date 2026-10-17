@@ -27,7 +27,9 @@ latest_posts:
 
 I am a Research Manager at the National Center for Advanced Integrated Photonics (NCAIP), NTU Singapore, working on integrated photonic devices and high-speed electro-optic systems. My [Ph.D. research](https://hdl.handle.net/10356/205858)  at NTU focused on terahertz photonics for high-speed communication and sensing, alongside contributions to terahertz electronic circuit design. My broader interests lie in silicon photonics as well as computational methods for photonic device design.
 
-My current interests include broadband integrated modulators and terahertz signal generation
+My current interests include broadband integrated modulators and terahertz signal generation.
+
+<p class="about-links"><a href="/assets/pdf/nikhil_cv/NikhilCV.pdf" target="_blank" rel="noopener">Download CV →</a><a href="https://scholar.google.com/citations?user=ydDcPawAAAAJ" target="_blank" rel="noopener">Google Scholar →</a></p>
 
 <p class="about-bg-label">What I bring</p>
 <div class="about-bg">
