@@ -6,13 +6,15 @@ nav: true
 nav_order: 2
 ---
 
-My work sits between design and test: designing photonic devices that guide terahertz light with little loss, and building the setups that show whether they perform as designed.
+I work across photonic device design and experimental characterization, from modelling how light propagates through a device to building the setups needed to measure its performance.
 
 <section class="research-section">
   <p class="research-kicker">Design</p>
-  <h2 class="research-question">How do we guide terahertz light on a chip with almost no loss?</h2>
+  <h2 class="research-question">How do we design photonic devices for specific performance goals?</h2>
   <div class="research-row">
-    <p>Moving data between chips faster means moving it with light, and that needs waveguides that waste very little of it. I design photonic crystal and topological waveguides in silicon, whose guiding holds up around sharp bends and defects, and build devices on them: filters, interferometers and sensors. The same platform points towards compact dispersion engineering, spectroscopy and on-chip sensing.</p>
+    <p>Photonic devices augment technologies such as high-speed communication, where component performance dictates system capabilities. I am interested in designing active and passive photonic components to meet demanding requirements for bandwidth, loss, and signal integrity. </p>
+    <p>My doctoral research focused on photonic crystal devices for terahertz communication and sensing, exploring how photonic crystal structures can guide electromagnetic modes with low loss even across sharp corners. This work included designing waveguides, waveguide-cavity systems, and interferometers. Two of my key contributions in this field are the implementation of a terahertz Mach-Zehnder interferometer and a broadband waveguide achieving aggregate data rates exceeding 400 Gbps. </p>
+    <p>I use electromagnetic modelling and simulation to guide the design and optimization of photonic devices. My broader interests include integrated photonics, high-speed electro-optic devices, and optical interconnects.</p>
     <div class="research-img">
       <img src="/assets/img/research/AB%20Waveguide%20GCF_crop.gif" alt="Topological waveguide" />
     </div>
@@ -37,9 +39,9 @@ My work sits between design and test: designing photonic devices that guide tera
 
 <section class="research-section">
   <p class="research-kicker">Test</p>
-  <h2 class="research-question">How do we know a terahertz device really performs as designed?</h2>
+  <h2 class="research-question">How do we validate photonic device performance in the lab?</h2>
   <div class="research-row">
-    <p>A device operating between 0.1 and 1 THz is only as credible as the measurement behind it. I build the setups that test them, from network-analyser characterisation to full communication testbeds that send data through the chip. Calibration gets as much care as the device itself, because a measurement can tell you more about the setup than about the device (<a href="https://www.jaakkoj.com/concepts/wittgensteins-ruler">Wittgenstein's Ruler</a>).</p>
+    <p>I enjoy building experiments that test device designs against their intended performance targets. I have built and operated experimental setups for photonic device characterization, from calibrated S-parameter measurements using vector network analysers to photonics-aided communication testbeds. These setups have enabled me to measure device responses  and evaluate data transmission using metrics such as error vector magnitude (EVM) and bit error rate (BER).I work across the measurement chain, from generating and modulating optical signals to interfacing with high-frequency devices and analysing the recovered data.</p>
     <!-- Add an image here when you have one, then delete this comment:
     <div class="research-img">
       <img src="/assets/img/research/YOUR_IMAGE.jpg" alt="Describe the image" />
@@ -47,17 +49,6 @@ My work sits between design and test: designing photonic devices that guide tera
     -->
   </div>
 
-  <p class="research-pubs-label">Representative publications</p>
-  <ol class="research-pubs">
-    <li>
-      <a href="#" target="_blank" rel="noopener">327 Gbps THz silicon photonic interconnect with sub-λ bends</a>
-      <span class="meta">M. Gupta, <strong>N. Navaratna</strong>, P. Szriftgiser, et al. <em>Applied Physics Letters</em>, 2023.</span>
-    </li>
-    <li>
-      <a href="#" target="_blank" rel="noopener">Faraday rotation in ligand capped Fe<sub>3</sub>O<sub>4</sub> nanoparticles: experimental investigations for single scattering model</a>
-      <span class="meta">H. K. Narsetti, W. A. Wani, <strong>N. Navaratna</strong>, et al. <em>Journal of Magnetism and Magnetic Materials</em>, 2021.</span>
-    </li>
-  </ol>
 </section>
 
 <p class="research-footer">Both threads come together in my <a href="https://hdl.handle.net/10356/205858" target="_blank" rel="noopener">Ph.D. thesis</a> (NTU Singapore). The full publication list is on <a href="#" target="_blank" rel="noopener">Google Scholar</a>.</p>
