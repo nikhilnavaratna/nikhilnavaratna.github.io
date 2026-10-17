@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: List of my publications
-nav: true
+nav: false
 nav_order: 3
 ---
 
