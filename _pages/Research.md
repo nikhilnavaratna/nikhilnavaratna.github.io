@@ -17,24 +17,25 @@ I work across photonic device design and experimental characterization, from mod
     <p>My doctoral research focused on photonic crystal devices for terahertz communication and sensing, exploring how photonic crystal structures can guide electromagnetic modes with low loss even across sharp corners. This work included designing waveguides, waveguide-cavity systems, and interferometers. Two of my key contributions in this field are the implementation of a terahertz Mach-Zehnder interferometer and a broadband waveguide achieving aggregate data rates exceeding 400 Gbps.</p>
     <p>I use electromagnetic modelling and simulation to guide the design and optimization of photonic devices. My broader interests include integrated photonics, high-speed electro-optic devices, and optical interconnects.</p>
   </div>
-  <div class="research-img">
-    <img src="/assets/img/design.png" alt="Design" />
-  </div>
+<div class="research-img">
+  <img class="img-light" src="/assets/img/research/designlight.png" alt="design light" />
+  <img class="img-dark" src="/assets/img/research/designdark.png" alt="design dark" />
+</div>
 </div>
 
   <p class="research-pubs-label">Representative publications</p>
   <ol class="research-pubs">
     <li>
-      <a href="#" target="_blank" rel="noopener">Monolithic Terahertz Topological Mach-Zehnder Interferometer</a>
+      <a href="https://doi.org/10.1002/adma.202505657" target="_blank" rel="noopener">Monolithic Terahertz Topological Mach-Zehnder Interferometer</a>
       <span class="meta"><strong>N. Navaratna</strong>, Y. J. Tan, W. Wang, et al. <em>Advanced Materials</em>, 2025.</span>
     </li>
     <li>
-      <a href="#" target="_blank" rel="noopener">Slow light topological photonics with counter-propagating waves and its active control on a chip</a>
+      <a href="https://doi.org/10.1038/s41467-024-45175-5" target="_blank" rel="noopener">Slow light topological photonics with counter-propagating waves and its active control on a chip</a>
       <span class="meta">A. Kumar, Y. J. Tan, <strong>N. Navaratna</strong>, et al. <em>Nature Communications</em>, 2024.</span>
     </li>
     <li>
-      <a href="#" target="_blank" rel="noopener">Topological Line Defect Waveguide</a>
-      <span class="meta"><strong>N. Navaratna</strong>, Y. J. Tan, R. Singh. <em>Advanced Optical Materials</em>, 2025.</span>
+      <a href="https://doi.org/10.1002/adma.74150" target="_blank" rel="noopener">Ultralow-Dispersion Silicon THz Photonic Crystal Interconnects for Multichannel Datalinks</a>
+      <span class="meta"><strong>N. Navaratna</strong>, T. C. Tan, P.Szriftgiser, et al. <em>Advanced Materials</em>, 2026.</span>
     </li>
   </ol>
 </section>
