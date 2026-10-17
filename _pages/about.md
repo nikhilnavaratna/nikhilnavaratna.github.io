@@ -27,7 +27,7 @@ latest_posts:
 
 I am a Research Manager at the National Center for Advanced Integrated Photonics (NCAIP), NTU Singapore, working on integrated photonic devices and high-speed electro-optic systems. My [Ph.D. research](https://hdl.handle.net/10356/205858)  at NTU focused on terahertz photonics for high-speed communication and sensing, alongside contributions to terahertz electronic circuit design. My broader interests lie in silicon photonics as well as computational methods for photonic device design.
 
-Currently interested in developing broadband integrated modulators and terahertz sources.  
+My current interests include broadband integrated modulators and terahertz signal generation
 
 <p class="about-bg-label">What I bring</p>
 <div class="about-bg">
@@ -37,6 +37,6 @@ Currently interested in developing broadband integrated modulators and terahertz
   <div class="about-bg-row"><div class="k">Programming</div><div class="v">Python, MATLAB and C++ for modelling, simulation automation and data processing; LabVIEW for automating measurement setups and data acquisition.</div></div>
 </div>
 
-Outside work: I read non-fiction and science fiction (technology, economics, the history and philosophy of science) and I’m training toward half marathons.
+Outside work: I read non-fiction (technology, economics, the history and philosophy of science) and science fiction. I’m also training toward half marathons.
 
 ---
