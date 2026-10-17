@@ -11,14 +11,16 @@ I work across photonic device design and experimental characterization, from mod
 <section class="research-section">
   <p class="research-kicker">Design</p>
   <h2 class="research-question">How do we design photonic devices for specific performance goals?</h2>
-  <div class="research-row">
-    <p>Photonic devices augment technologies such as high-speed communication, where component performance dictates system capabilities. I am interested in designing active and passive photonic components to meet demanding requirements for bandwidth, loss, and signal integrity. 
-    My doctoral research focused on photonic crystal devices for terahertz communication and sensing, exploring how photonic crystal structures can guide electromagnetic modes with low loss even across sharp corners. This work included designing waveguides, waveguide-cavity systems, and interferometers. Two of my key contributions in this field are the implementation of a terahertz Mach-Zehnder interferometer and a broadband waveguide achieving aggregate data rates exceeding 400 Gbps. 
-    I use electromagnetic modelling and simulation to guide the design and optimization of photonic devices. My broader interests include integrated photonics, high-speed electro-optic devices, and optical interconnects.</p>
-    <div class="research-img">
-      <img src="/assets/img/research/AB%20Waveguide%20GCF_crop.gif" alt="Topological waveguide" />
-    </div>
+<div class="research-row">
+  <div class="research-text">
+    <p>Photonic devices augment technologies such as high-speed communication, where component performance dictates system capabilities. I am interested in designing active and passive photonic components to meet demanding requirements for bandwidth, loss, and signal integrity.</p>
+    <p>My doctoral research focused on photonic crystal devices for terahertz communication and sensing, exploring how photonic crystal structures can guide electromagnetic modes with low loss even across sharp corners. This work included designing waveguides, waveguide-cavity systems, and interferometers. Two of my key contributions in this field are the implementation of a terahertz Mach-Zehnder interferometer and a broadband waveguide achieving aggregate data rates exceeding 400 Gbps.</p>
+    <p>I use electromagnetic modelling and simulation to guide the design and optimization of photonic devices. My broader interests include integrated photonics, high-speed electro-optic devices, and optical interconnects.</p>
   </div>
+  <div class="research-img">
+    <img src="/assets/img/research/AB%20Waveguide%20GCF_crop.gif" alt="Topological waveguide" />
+  </div>
+</div>
 
   <p class="research-pubs-label">Representative publications</p>
   <ol class="research-pubs">
