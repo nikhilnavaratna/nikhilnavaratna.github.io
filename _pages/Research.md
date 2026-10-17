@@ -18,7 +18,7 @@ I work across photonic device design and experimental characterization, from mod
     <p>I use electromagnetic modelling and simulation to guide the design and optimization of photonic devices. My broader interests include integrated photonics, high-speed electro-optic devices, and optical interconnects.</p>
   </div>
   <div class="research-img">
-    <img src="/assets/img/research/AB%20Waveguide%20GCF_crop.gif" alt="Topological waveguide" />
+    <img src="/assets/img/design.png" alt="Design" />
   </div>
 </div>
 
