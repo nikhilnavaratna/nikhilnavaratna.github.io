@@ -154,10 +154,17 @@ h1.post-title {
   margin-top: 1.25rem;
 }
 
-.research-row p {
+.research-text {
   flex: 1 1 22rem;
   min-width: 0;
-  margin: 0;
+}
+
+.research-text p {
+  margin: 0 0 1rem;
+}
+
+.research-text p:last-child {
+  margin-bottom: 0;
 }
 
 .research-img {
