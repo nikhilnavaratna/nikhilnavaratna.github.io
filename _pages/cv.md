@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CV
-nav: true
+nav: false
 nav_order: 4
 permalink: assets/pdf/nikhil_cv/NikhilCV.pdf
 ---
