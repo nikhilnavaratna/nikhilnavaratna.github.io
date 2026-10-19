@@ -2,7 +2,7 @@
 layout: page
 permalink: /notes/
 title: Notes
-nav: false
+nav: true
 nav_order: 3
 ---
 
@@ -15,7 +15,10 @@ Short pieces on designing and testing terahertz photonics, and what the lab teac
 {% for note in sorted_notes %}
 <li>
 <a class="note-link" href="{{ note.url | relative_url }}" target="_blank" rel="noopener">
+<span class="note-main">
 <span class="note-title">{{ note.title }}</span>
+{% if note.description %}<span class="note-desc">{{ note.description }}</span>{% endif %}
+</span>
 {% if note.tags and note.tags.size > 0 %}
 <span class="note-tags">{% for tag in note.tags %}<span class="note-tag">{{ tag }}</span>{% endfor %}</span>
 {% endif %}
