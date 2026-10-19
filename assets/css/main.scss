@@ -271,3 +271,18 @@ html[data-theme="dark"] .research-img .img-dark {
   object-fit: contain;
   vertical-align: top;
 }
+
+// Justified body text
+.research-text p,
+.research-pubs .meta {
+  text-align: justify;
+  hyphens: auto;
+}
+
+@media (max-width: 575px) {
+  .research-text p,
+  .research-pubs .meta {
+    text-align: left;
+    hyphens: manual;
+  }
+}
