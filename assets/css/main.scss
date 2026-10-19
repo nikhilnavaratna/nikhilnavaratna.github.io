@@ -286,3 +286,27 @@ html[data-theme="dark"] .research-img .img-dark {
     hyphens: manual;
   }
 }
+
+// Bookshelf: outlined status chips (replaces the theme's coloured bars)
+figure.cover figcaption[class] {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.15rem 0.65rem;
+  font-family: "Hanken Grotesk", system-ui, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  background-color: transparent;
+  border: 1px solid var(--global-text-color-light);
+  border: 1px solid color-mix(in srgb, var(--global-text-color-light) 55%, transparent);
+  border-radius: 999px;
+}
+
+// Currently reading: accent colour (amber in dark, red in light)
+figure.cover figcaption.reading,
+figure.cover figcaption.watching {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
