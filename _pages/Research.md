@@ -58,4 +58,4 @@ I work across photonic device design and experimental characterization, from mod
 
 </section>
 
-<p class="research-footer">Both threads come together in my <a href="https://hdl.handle.net/10356/205858" target="_blank" rel="noopener">Ph.D. thesis</a> (NTU Singapore). The full publication list is on <a href="#" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<p class="research-footer">Both threads come together in my <a href="https://hdl.handle.net/10356/205858" target="_blank" rel="noopener">Ph.D. thesis</a> (NTU Singapore). The full publication list is on <a href="https://scholar.google.com/citations?user=ydDcPawAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.</p>
