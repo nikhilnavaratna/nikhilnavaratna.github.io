@@ -43,12 +43,15 @@ I work across photonic device design and experimental characterization, from mod
 <section class="research-section">
   <p class="research-kicker">Test</p>
   <h2 class="research-question">How do we validate photonic device performance in the lab?</h2>
-  <div class="research-row">
-    <p>I enjoy building experiments that test device designs against their intended performance targets. I have built and operated experimental setups for photonic device characterization, from calibrated S-parameter measurements using vector network analysers to photonics-aided communication testbeds. These setups have enabled me to measure device responses  and evaluate data transmission using metrics such as error vector magnitude (EVM) and bit error rate (BER).I work across the measurement chain, from generating and modulating optical signals to interfacing with high-frequency devices and analysing the recovered data.</p>
-  <div class="research-img">
-    <img class="img-light" src="/assets/img/research/testbed_light.png" alt="Description of the figure" />
-    <img class="img-dark" src="/assets/img/research/testbed_dark.png" alt="Description of the figure" />
-  </div>
+  <div class="research-row research-row-stacked">
+    <div class="research-text">
+      <p>I enjoy building experiments that test device designs against their intended performance targets. I have built and operated experimental setups for photonic device characterization, from calibrated S-parameter measurements using vector network analysers to photonics-aided communication testbeds. These setups have enabled me to measure device responses and evaluate data transmission using metrics such as error vector magnitude (EVM) and bit error rate (BER).</p>
+      <p>I work across the measurement chain, from generating and modulating optical signals to interfacing with high-frequency devices and analysing the recovered data.</p>
+    </div>
+    <div class="research-img">
+      <img class="img-light" src="/assets/img/research/testbed_light.png" alt="Block diagram of the photonics-aided communication testbed: two lasers, an IQ modulator driven by an arbitrary waveform generator, an optical amplifier and attenuator, a photodiode feeding the device under test, a mixer with a local oscillator, an amplifier and a real-time oscilloscope" />
+      <img class="img-dark" src="/assets/img/research/testbed_dark.png" alt="" />
+    </div>
   </div>
 
 </section>
