@@ -17,9 +17,10 @@ I work across photonic device design and experimental characterization, from mod
     <p>My doctoral research focused on photonic crystal devices for terahertz communication and sensing, exploring how photonic crystal structures can guide electromagnetic modes with low loss even across sharp corners. This work included designing waveguides, waveguide-cavity systems, and interferometers. Two of my key contributions in this field are the implementation of a terahertz Mach-Zehnder interferometer and a broadband waveguide achieving aggregate data rates exceeding 400 Gbps.</p>
     <p>I use electromagnetic modelling and simulation to guide the design and optimization of photonic devices. My broader interests include integrated photonics, high-speed electro-optic devices, and optical interconnects.</p>
   </div>
-<div class="research-img">
+<div class="research-img research-img-cap">
   <img class="img-light" src="/assets/img/research/design_light.png" alt="design light" />
   <img class="img-dark" src="/assets/img/research/design_dark.png" alt="design dark" />
+  <span class="research-cap">Chips I have designed and characterized </span>
 </div>
 </div>
 
@@ -48,9 +49,10 @@ I work across photonic device design and experimental characterization, from mod
       <p>I enjoy building experiments that test device designs against their intended performance targets. I have built and operated experimental setups for photonic device characterization, from calibrated S-parameter measurements using vector network analysers to photonics-aided communication testbeds. These setups have enabled me to measure device responses and evaluate data transmission using metrics such as error vector magnitude (EVM) and bit error rate (BER).</p>
       <p>I work across the measurement chain, from generating and modulating optical signals to interfacing with high-frequency devices and analysing the recovered data.</p>
     </div>
-    <div class="research-img">
+    <div class="research-img research-img-cap">
       <img class="img-light" src="/assets/img/research/testbed_light.png" alt="Block diagram of the photonics-aided communication testbed: two lasers, an IQ modulator driven by an arbitrary waveform generator, an optical amplifier and attenuator, a photodiode feeding the device under test, a mixer with a local oscillator, an amplifier and a real-time oscilloscope" />
       <img class="img-dark" src="/assets/img/research/testbed_dark.png" alt="" />
+      <span class="research-cap">Communication testbed used to send data through the chip.</span>
     </div>
   </div>
 
