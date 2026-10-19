@@ -238,3 +238,25 @@ html[data-theme="dark"] .research-img .img-light {
 html[data-theme="dark"] .research-img .img-dark {
   display: block;
 }
+
+// Research row with the image below the text (for wide images)
+.research-row-stacked {
+  flex-direction: column;
+}
+
+.research-row-stacked .research-text {
+  flex: none;
+}
+
+.research-row-stacked .research-img {
+  flex: none;
+  width: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+
+.research-row-stacked .research-img img {
+  height: auto;
+  object-fit: contain;
+  vertical-align: top;
+}
