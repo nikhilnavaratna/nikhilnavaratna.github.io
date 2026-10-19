@@ -352,7 +352,7 @@ figure.cover figcaption.watching {
 .notes-list a.note-link {
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
+  align-items: center;
   gap: 0.4rem 1rem;
   color: var(--global-text-color);
   text-decoration: none;
