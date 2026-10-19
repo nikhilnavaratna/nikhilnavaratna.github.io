@@ -449,6 +449,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/faraday/";
+            },},{id: "books-a-swim-in-a-pond-in-the-rain",
+          title: 'A Swim in a Pond in the Rain',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sipir/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
