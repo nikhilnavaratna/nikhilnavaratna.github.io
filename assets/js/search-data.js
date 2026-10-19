@@ -454,6 +454,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sipir/";
+            },},{id: "books-loonshots-how-to-nurture-the-crazy-ideas-that-win-wars-cure-diseases-and-transform-industries",
+          title: 'Loonshots How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/loonshots/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
