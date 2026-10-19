@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Research/";
           },
+        },{id: "nav-notes",
+          title: "Notes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/notes/";
+          },
         },{id: "nav-bookshelf",
           title: "Bookshelf",
           description: "",
@@ -472,7 +479,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "notes-a-measurement-tells-you-about-the-setup-first",
           title: 'A measurement tells you about the setup first',
-          description: "",
+          description: "Why calibration deserves as much care as the device itself.",
           section: "Notes",handler: () => {
               window.location.href = "/notes/example-note/";
             },},{id: "projects-project-1",
