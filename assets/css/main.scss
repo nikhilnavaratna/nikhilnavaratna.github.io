@@ -82,7 +82,7 @@ h1.post-title {
 }
 
 .about-links a {
-  display: inline-block;
+: inline-block;
   font-weight: 600;
   margin-right: 1.5rem;
   padding: 0.6rem 0;
@@ -289,8 +289,9 @@ html[data-theme="dark"] .research-img .img-dark {
 
 // Bookshelf: outlined status chips (replaces the theme's coloured bars)
 figure.cover figcaption[class] {
-  display: inline-block;
-  margin-top: 0.6rem;
+  display: block;
+  width: fit-content;
+  margin: 0.6rem auto 0;
   padding: 0.15rem 0.65rem;
   font-family: "Hanken Grotesk", system-ui, sans-serif;
   font-size: 0.7rem;
