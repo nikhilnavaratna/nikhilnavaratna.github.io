@@ -45,11 +45,10 @@ I work across photonic device design and experimental characterization, from mod
   <h2 class="research-question">How do we validate photonic device performance in the lab?</h2>
   <div class="research-row">
     <p>I enjoy building experiments that test device designs against their intended performance targets. I have built and operated experimental setups for photonic device characterization, from calibrated S-parameter measurements using vector network analysers to photonics-aided communication testbeds. These setups have enabled me to measure device responses  and evaluate data transmission using metrics such as error vector magnitude (EVM) and bit error rate (BER).I work across the measurement chain, from generating and modulating optical signals to interfacing with high-frequency devices and analysing the recovered data.</p>
-    <!-- Add an image here when you have one, then delete this comment:
-    <div class="research-img">
-      <img src="/assets/img/research/YOUR_IMAGE.jpg" alt="Describe the image" />
-    </div>
-    -->
+  <div class="research-img">
+    <img class="img-light" src="/assets/img/research/testbed_light.png" alt="Description of the figure" />
+    <img class="img-dark" src="/assets/img/research/testbed_dark.png" alt="Description of the figure" />
+  </div>
   </div>
 
 </section>
